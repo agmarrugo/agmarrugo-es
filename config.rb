@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/agmarrugo-es/"
+http_images_path = "/agmarrugo-es/images"
+http_fonts_path = "/agmarrugo-es/fonts"
+css_dir = "public/agmarrugo-es/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
