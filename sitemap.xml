@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://agmarrugo.github.com/agmarrugo-es/blog/archives/</loc>
-        <lastmod>2012-08-11T01:41:55+02:00</lastmod>
+        <loc>http://marrugo.net/es/blog/2012/08/12/hola-mundo/</loc>
+        <lastmod>2012-08-12T12:50:59+02:00</lastmod>
     </url>
     <url>
-        <loc>http://agmarrugo.github.com/agmarrugo-es/</loc>
-        <lastmod>2012-08-11T01:41:55+02:00</lastmod>
+        <loc>http://marrugo.net/es/blog/archives/</loc>
+        <lastmod>2012-08-12T12:50:59+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://marrugo.net/es/</loc>
+        <lastmod>2012-08-12T12:50:59+02:00</lastmod>
     </url>
 </urlset>
