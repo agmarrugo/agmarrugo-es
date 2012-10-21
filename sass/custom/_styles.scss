@@ -140,6 +140,11 @@ body > footer{
 
 /* ----- Media queries ----- */
 
+@media only screen and (min-width: 992px) {
+  body { font-size: 1em; }
+  h1 { font-size: 1.8em; line-height: 1.2em; }
+}
+
 
 @media only screen and (min-width: 550px) {
 
@@ -189,8 +194,12 @@ body > footer{
   }
 }
 
-/*For unordered lists*/
+/*For unordered and ordered lists*/
 ul {
+	padding-left: $pad-min
+}
+
+ol {
 	padding-left: $pad-min
 }
 
@@ -207,7 +216,7 @@ sup{
 #content sub { top: 0.8ex; }*/
 
 div.footnotes {
-	font-size: 0.9em;
+	font-size: 0.8em;
 /*   padding-left: $pad-min;*/
 	hr {
 /*	padding-left: 0px;*/
@@ -285,6 +294,28 @@ div.ail img {
 
 div.aic img {
     max-width: 100%;
+}
+
+/*Blockquote*/
+
+blockquote {
+  $bq-margin: 1.2em;
+  color: #555555;
+  font-style: italic;
+  position: relative;
+  font-size: 1em;
+  line-height: 1.5em;
+  padding-left: 1em;
+  border-left: 4px solid rgba($text-color-light, .5);
+  cite {
+    font-style: italic;
+    a { color: $text-color-light !important; word-wrap: break-word; }
+    &:before { content: '\2014'; padding:{right: .3em; left: .3em;} color: $text-color-light; }
+  }
+  @media only screen and (min-width: 992px) {
+    padding-left: 1.5em;
+    border-left-width: 4px;
+  }
 }
 
 
