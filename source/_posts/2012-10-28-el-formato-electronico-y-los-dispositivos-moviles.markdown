@@ -22,7 +22,7 @@ El libro me llegó hace unas semanas por correo y así tal cual sigue estando en
 
 [^fn4]: Dropbox, iCloud, etc. 
 
-Hay algo a lo que yo le llamo el "tiempo muerto". Es aquel tiempo en que independientemente de nuestras decisiones tenemos que dejar pasar. Últimamente siento que aprovecho mejor el tiempo muerto y que también lo paso mejor. **Leo más, escribo más, vivo más**.
+Hay algo a lo que yo le llamo el "tiempo muerto". Es aquel tiempo en que independientemente de nuestras decisiones tenemos que dejar pasar. Últimamente siento que aprovecho mejor el tiempo muerto y que también lo paso mejor. *Leo más, escribo más, vivo más*.
 
 Como ya corregí al principio de esta entrada[^fn6], evidentemente me compré también la edición digital del libro de Yuvi Zalkow y lo llevo ya casi por la mitad. No escribo con la intención de recomendarlo, pero para el que le interese hay risas aseguradas. Y ya que estoy con la *pseudo*-recomendación hace unas semanas me leí un muy buen libro: "[The Writer][7]" por [Cristian Mihai][6], un joven escritor rumano. Es un gran blogger y se ha publicado su libro él mismo. Una persona sin lugar a dudas para seguir en el internet.
 

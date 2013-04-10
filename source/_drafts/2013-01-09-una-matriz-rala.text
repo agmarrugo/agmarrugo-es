@@ -1,0 +1,8 @@
+## Una matriz rala
+
+En estos días estaba explicándole un procedimiento matemático a mi directora de tesis, cuando me tocó referirme a un tipo especial de matrices que en inglés se llaman *sparse matrices*. Lo peculiar de estas matrices es que son matrices que tienen un valor que se repite muchas veces (típicamente ceros) y muy pocos valores que sean diferentes entre sí. 
+
+Tras varios años de estar trabajando con estas matrices nunca se me había ocurrido preguntarme (si lo hice no me acuerdo) como se les llama en castellano. 
+
+<div class="aic" style="width:493px"><img src="http://d.pr/i/NM6m+" alt="Matriz dispersa wikipedia"><br>
+Matriz dispersa (rala) en wikipedia.</div>
