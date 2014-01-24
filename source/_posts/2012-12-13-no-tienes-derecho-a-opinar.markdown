@@ -8,7 +8,7 @@ published: true
 categories: [educación, la vida]
 ---
 
-<div class="aic" style="width:500px"><img src="http://d.pr/i/79mZ+" alt=""><br>
+<div class="aic" style="width:500px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/medium_3133604390.jpg" alt=""><br>
 photo credit: <a href="http://www.flickr.com/photos/will-lion/3133604390/">Will Lion</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>.</div>
 
 
