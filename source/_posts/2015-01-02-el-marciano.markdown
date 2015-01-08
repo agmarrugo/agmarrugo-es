@@ -14,6 +14,8 @@ El Marciano por Andy Weir. </div>
 
 Comencemos el 2015 con una excelente recomendación. Hacer unos días comencé a leer[^fn1] una de las historias más fascinantes que he leído en los últimos tiempos. Una historia de ciencia ficción, pero que resulta ser tan "real" que podría pasar fácilmente por una crónica de un programa espacial actual - o de un futuro cercano. [*El Marciano*](http://en.wikipedia.org/wiki/The_Martian_%28Weir_novel%29 "The Martian (Weir novel) - Wikipedia, the free encyclopedia") por [Andy Weir](http://www.andyweirauthor.com/ "ANDY WEIR") es la historia de un astronauta accidentalmente abandonado en Marte durante una de las primeras misiones tripuladas al gran planeta rojo. La ciencia en la novela es increíblemente precisa, al punto que el autor tuvo que escribir su propio software para el cálculo de trayectorias, entre otras cosas.
 
+<!-- more -->
+
 > Hace seis dias, el astronauta Mark Watney se convirtio en una de las primeras personas en caminar en Marte. Ahora, él esta seguro de que va a ser la primera persona en morir allí.
 >
 > [-- La sinópsis del libro.](http://www.amazon.com/marciano-Spanish-Edition-Andy-Weir/dp/8466655050 "El marciano (Spanish Edition): Andy Weir: 9788466655057: Amazon.com: Books")
