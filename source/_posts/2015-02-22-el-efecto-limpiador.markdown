@@ -8,7 +8,10 @@ published: true
 categories: [la vida]
 ---
 
-La ilusión de lo que podría ser siempre es mas grande y poderosa que la realidad de lo que realmente termina ocurriendo. 
+<div class="aic" style="width:460px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/6885374641_416470551c.jpg" alt="" width="" height="" border="0" /><br>
+photo credit: <a href="http://www.flickr.com/photos/61904391@N08/6885374641">Jeff Parrott</a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by/2.0/">cc</a>.</div>
+
+*La ilusión de lo que podría ser, siempre es más grande y poderosa que la realidad de lo que realmente termina ocurriendo.* 
 
 La sensación sublime de la simplicidad. La elegancia de lo sencillo. Compartir un café en el ultimo par de tazas que no empacas porque están medio rotas. Deshacerte de todo aquello que es superfluo es liberador. 
 
