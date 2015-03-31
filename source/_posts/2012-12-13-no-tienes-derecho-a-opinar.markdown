@@ -5,7 +5,7 @@ date: 2012-12-13 00:15
 author: Andres Marrugo
 comments: true
 published: true
-categories: [educación, la vida]
+categories: [educacion, la vida]
 ---
 
 <div class="aic" style="width:500px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/medium_3133604390.jpg" alt=""><br>
