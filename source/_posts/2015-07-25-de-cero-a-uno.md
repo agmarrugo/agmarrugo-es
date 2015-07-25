@@ -12,11 +12,11 @@ categories: [la vida, academia]
 <div class="aic" style="width:256px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/stair-1-2.jpg" alt="Stairs" width="" height="" border="0" /><br>
 </div>
 
->De 0 a 1 el salto es infinito.
->Crear de la nada cuesta mucho. 
->De 1 a 2 el salto es 1. 
->
-> **J.E.**
+>De 0 a 1 el salto es infinito.      
+>Crear de la nada cuesta mucho.       
+>De 1 a 2 el salto es 1.       
+>      
+> **J.E.**     
 
 Hace unos semanas estuve conversando con un amigo del departamento donde hice mi doctorado en España. Le estuve comentando sobre mi trabajo acá en la universidad en Colombia y cómo estaba todavía intentando arrancar con proyectos y la investigación.
 
