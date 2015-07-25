@@ -18,7 +18,7 @@ categories: [la vida, academia]
 >      
 > **J.E.**     
 
-Hace unos semanas estuve conversando con un amigo del departamento donde hice mi doctorado en España. Le estuve comentando sobre mi trabajo acá en la universidad en Colombia y cómo estaba todavía intentando arrancar con proyectos y la investigación.
+Hace unas semanas estuve conversando con un amigo del departamento donde hice mi doctorado en España. Le estuve comentando sobre mi trabajo acá en la universidad en Colombia y cómo estaba todavía intentando arrancar con proyectos y la investigación.
 
 Él me dijo algo que me hizo reflexionar y es el mensaje que quiero compartir en este entrada. *Pasar de cero a uno es infinito, de uno a dos es sólo uno.* Arrancar, comenzar, escribir la primera línea con la hoja en blanco, crear de la nada, cuesta mucho y efectivamente a veces parece un esfuerzo infinito. Cuando ya se ha comenzado con algo, seguir haciéndolo cuesta menos. 
 
