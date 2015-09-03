@@ -2,7 +2,7 @@
 layout: page
 title: "Docencia"
 author: Andres Marrugo
-date: 2014-01-24 09:23
+date: 2015-09-03 09:23
 comments: false
 sharing: true
 footer: true
