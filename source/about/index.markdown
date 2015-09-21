@@ -8,13 +8,15 @@ sharing: true
 footer: true
 ---
 
-Hola, me llamo Andrés Marrugo y soy estudiante de doctorado en ingeniería óptica en la Universidad Politécnica de Cataluña en Barcelona, España. Trabajo en el [grupo de Óptica Aplicada y Procesado de Imagen][goapi] y mi principal línea de investigación es el procesado digital de imagen médica. 
+Hola, me llamo Andrés Marrugo y soy profesor del departamento de ingeniería mecánica y mecatrónica de la Universidad Tecnológica de Bolívar en Cartagena, Colombia. Mis intereses investigativos son: procesamiento digital de imágenes médicas, inspección no destructiva/no contacto y visión por computador. 
 
-Últimamente paso casi todo mi tiempo trabajando en la tesis o en casa disfrutando de la compañía de mi novia y mi hijo de un año. Ser padre es una experiencia increíble, ha cambiado mi vida y la forma en como la contemplo. Cuando no estoy haciendo de *padre de familia* o de *estudiante de posgrado*, usualmente estoy molestando en un terminal (doing nerdy stuff), editando fotos/videos de mi niño, cocinando (me encanta cocinar), escribiendo en mi diario, poniéndome al día con mis blogs y podcasts favoritos, y--por supuesto--escribiendo en mi blog[^foo].
+Paso casi todo mi tiempo entre el trabajo en la universidad en docencia, investigación, ["reuniones y otras cosas"][meetings], y la casa disfrutando de la compañía de mi esposa y mis dos hijos.
+Ser padre es una experiencia increíble, ha cambiado mi vida y la forma en como la contemplo. Cuando no estoy haciendo de *padre de familia* o de *profesor*, usualmente estoy molestando en un terminal (doing nerdy stuff), editando fotos/videos de mis hijos, cocinando (me encanta cocinar), escribiendo en mi diario, poniéndome al día con mis blogs y podcasts favoritos, y--por supuesto--escribiendo en mi blog[^foo].
 
 [^foo]: También hago otras cosas, pero esto no es una biografía ¿O sí?
 
-Desde el 2010 he estado escribiendo[^foo2] en [Between the Candle and the Star][wordpress] un blog ubicado[^foo3] en [wordpress.com][wordpress 2]. Ha sido una experiencia interesante y enriquecedora, incluso más en el último año en que he estado publicando más regularmente. Sin embargo, sentí que había llegado el momento de cambiar a algo más personalizable y que pudiera representarme mejor. Esta es una de las razones por la que me cambié a una página implementada por [Octopress][octopress]. En una entrada futura entraré en detalles.
+Desde el 2010 he estado escribiendo[^foo2] en [Between the Candle and the Star][wordpress] un blog ubicado[^foo3] en [wordpress.com][wordpress 2]. Ha sido una experiencia interesante y enriquecedora, incluso más en el último año en que he estado publicando más regularmente. Sin embargo, sentí que había llegado el momento de cambiar a algo más personalizable y que pudiera representarme mejor. Esta es una de las razones por la que me cambié a una página implementada por [Octopress][octopress]. Recientemente comencé a escribir en [El mundo de Alo y Nico][mundo], un blog que llevamos entre mi esposa y yo sobre reflexiones en la crianza y educación de nuestros hijos.
+
 
 [^foo2]: La palabra "blog" sí está reconocida por la RAE, pero el verbo "bloguear" no existe (todavía).
 
@@ -23,7 +25,8 @@ Desde el 2010 he estado escribiendo[^foo2] en [Between the Candle and the Star][
 ## Contacto ##
 
 - **Email:** agmarrugo (at) gmail dot com
-- **Twitter:** [agmarrugo][twitter]
+- **Twitter personal:** [agmarrugo][twitter]
+- **Twitter profesional:** [DrMarrugo][twitter2]
 
 ## Me puedes encontrar también en ##
 
@@ -32,6 +35,7 @@ Desde el 2010 he estado escribiendo[^foo2] en [Between the Candle and the Star][
 - [Mendeley](http://www.mendeley.com/profiles/andres-marrugo/)
 - [Tumblr: Mil Una Palabras](http://milunapalabras.tumblr.com/)
 - [Wordpress.com: Between the Candle and the Star][wordpress]
+- [Research Gate][gate]
 
 
 ## Acerca de esta página
@@ -51,9 +55,13 @@ He personalizado la apariencia de la página un poco. En gran medida está basad
 [daringfireball]: http://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown"
 [github]: https://github.com/
 [github 2]: https://github.com/agmarrugo/agmarrugo.github.com
-[melandri]: http://melandri.net/2012/07/23/darkstripes-octopress-theme-released/
+[melandri]: http://melandri.net/darkstripes-octopress-theme-released/ "DarkStripes Octopress theme released - Alessandro Melandri"
 [melandri 2]: http://melandri.net/
 [octopress]: http://octopress.org/ "Octopress"
 [subtlepatterns]: http://subtlepatterns.com/3px-tile/
 [subtlepatterns 2]: http://subtlepatterns.com/
 [twitter]: https://twitter.com/agmarrugo
+[twitter2]: https://twitter.com/drmarrugo
+[mundo]: http://micriaturita.blogspot.com.co/ "El mundo de Alo y Nico"
+[meetings]: http://us1.campaign-archive2.com/?u=028de8672d5f9a229f15e9edf&id=ee59dab2a5&e=7ff32264cd "spare time is for work"
+[gate]: https://www.researchgate.net/profile/Andres_Marrugo "Andrés G Marrugo"
