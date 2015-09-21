@@ -2,7 +2,7 @@
 layout: page
 title: "Acerca de"
 author: Andres Marrugo
-date: 2012-08-19 23:31
+date: 2015-09-20 23:31
 comments: false
 sharing: true
 footer: true
