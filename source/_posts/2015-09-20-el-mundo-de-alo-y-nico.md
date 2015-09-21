@@ -5,7 +5,7 @@ date: 2015-09-20 22:07
 author: Andres Marrugo
 comments: true
 published: true
-categories: [blog, life]
+categories: [blog,la vida]
 ---
 
 Hace unas semanas mi esposa revivió [un blog][2] que había creado en el 2011 y al que no le había dedicado más que una entrada. El blog, que lleva por título *El mundo de Alo y Nico*, tiene la intención de documentar un poco nuestras vivencias en lo que respecta a criar a nuestros hijos. Nuestras decisiones y reflexiones. 
