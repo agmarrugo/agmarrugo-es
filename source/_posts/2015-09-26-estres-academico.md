@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Estrés académico"
-description: Hay momentos en la vida en que la emoción por haber conseguido algo es rápidamente eclipsada por la realización de las implicaciones que tiene ese acontecimiento.
+description: Hay momentos en la vida en que la emoci&oacute;n por haber conseguido algo es r&aacute;pidamente eclipsada por la realizaci&oacute;n de las implicaciones que tiene ese acontecimiento.
 date: 2015-09-26 06:54
 author: Andres Marrugo
 comments: true
