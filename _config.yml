@@ -66,8 +66,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
+twitter_user: agmarrugo
+twitter_tweet_count: 1
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
@@ -99,3 +99,7 @@ google_analytics_tracking_id: UA-34225633-1
 
 # Facebook Like
 facebook_like: true
+
+# Facebook Insights / Open Graph
+facebook_app_id: 688168701320097
+facebook_page: https://www.facebook.com/andres.g.marrugo
