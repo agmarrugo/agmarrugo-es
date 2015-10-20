@@ -67,7 +67,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: agmarrugo
-twitter_tweet_count: 1
+twitter_tweet_count: 0
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
@@ -110,4 +110,4 @@ permalink_label_feed: "&infin; Permalink"
 linklog_marker: "&rarr;"
 linklog_marker_position: after
 linklog_marker_position_feed: after
-standard_post_marker:
+# standard_post_marker:
