@@ -7,7 +7,6 @@ author: Andres Marrugo
 comments: true
 published: true
 categories: [la vida]
-external-url: http://micriaturita.blogspot.com.co/2015/10/que-nos-dejen-tranquilos.html
 facebook:
     image: https://dl.dropboxusercontent.com/u/5279729/blog-pics/IMG_6395.jpg
 twitter_card:
