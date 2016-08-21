@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Haciéndole espacio a la ficción"
+title: "Haci&eacute;ndole espacio a la ficción"
 description: Porque sin la ficción, la vida es plana. Y en los mundos planos no existen las montañas rusas.
 date: 2016-08-20 22:57
 author: Andres Marrugo
 comments: true
 published: true
-categories:[la vida, libros]
+categories: [la vida, libros]
 facebook:
     image: https://dl.dropboxusercontent.com/u/5279729/blog-pics/photo-audiobook-mario-benedetti.jpg
 twitter_card:
