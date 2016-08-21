@@ -15,6 +15,9 @@ twitter_card:
     image: https://dl.dropboxusercontent.com/u/5279729/blog-pics/photo-audiobook-mario-benedetti.jpg
 ---
 
+<div class="aic" style="width:460px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/photo-audiobook-mario-benedetti.jpg" alt="" width="" height="" border="0" /><br>
+</div>
+
 El arte es para nosotros como un alimento para sobrellevar la rutina y lo banal. En lo práctico no se encuentra inspiración, en cambio lo bello y sencillo, lo armonioso, nos traslada a otros lugares y nos hace creer en algo mejor que nosotros mismos. De eso se trata la vida -- por lo menos la vida digna. 
 
 Es así como comienza mi historia, no una particularmente interesante, sino una que lucha por empaparse de otras, especialmente las imaginarias y fantasiosas. 
