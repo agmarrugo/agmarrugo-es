@@ -15,7 +15,9 @@ twitter_card:
     image: http://andresmarrugo.net/es/images/nico-alo-muralla.jpeg
 ---
 
-# La distancia más corta
+<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/nico-alo-muralla.jpeg" alt="" width="" height="" border="0" /><br>
+</div>
+
 
 > Una línea recta puede ser la distancia más corta entre dos puntos, pero de ninguna forma es la más interesante.  
 >
