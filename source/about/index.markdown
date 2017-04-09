@@ -8,7 +8,7 @@ sharing: true
 footer: true
 ---
 
-Hola, me llamo Andrés Marrugo y soy profesor del departamento de ingeniería mecánica y mecatrónica de la Universidad Tecnológica de Bolívar en Cartagena, Colombia. Mis intereses investigativos son: procesamiento digital de imágenes médicas, inspección no destructiva/no contacto y visión por computador. 
+Hola, me llamo Andrés Marrugo y soy profesor de ingeniería mecatrónica de la Universidad Tecnológica de Bolívar en Cartagena, Colombia. Mis intereses investigativos son: procesamiento digital de imágenes médicas, inspección no destructiva/no contacto y visión por computador. 
 
 Paso casi todo mi tiempo entre el trabajo en la universidad en docencia, investigación, ["reuniones y otras cosas"][meetings], y la casa disfrutando de la compañía de mi esposa y mis dos hijos.
 Ser padre es una experiencia increíble, ha cambiado mi vida y la forma en como la contemplo. Cuando no estoy haciendo de *padre de familia* o de *profesor*, usualmente estoy molestando en un terminal (doing nerdy stuff), editando fotos/videos de mis hijos, cocinando (me encanta cocinar), escribiendo en mi diario, poniéndome al día con mis blogs y podcasts favoritos, y--por supuesto--escribiendo en mi blog[^foo].
@@ -36,6 +36,7 @@ Desde el 2010 he estado escribiendo[^foo2] en [Between the Candle and the Star][
 - [Tumblr: Mil Una Palabras](http://milunapalabras.tumblr.com/)
 - [Wordpress.com: Between the Candle and the Star][wordpress]
 - [Research Gate][gate]
+- [Página del laboratorio](http://opilab.unitecnologica.edu.co)
 
 
 ## Acerca de esta página
