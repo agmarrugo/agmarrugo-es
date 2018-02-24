@@ -5,7 +5,7 @@ description: He decidido comenzar a escribir pensando en mis alumnos.
 date: 2018-02-23 23:52
 author: Andres Marrugo
 comments: true
-published: false
+published: true
 categories: [academia, life]
 ---
 
