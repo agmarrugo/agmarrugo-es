@@ -5,8 +5,8 @@ description: Si sólo pudiera dar un consejo a mis estudiantes, especialmente qu
 date: 2018-02-20 10:24
 author: Andres Marrugo
 comments: true
-published: false
-categories: blog
+published: true
+categories: academia
 facebook:
     image: http://andresmarrugo.net/es/images/make-things-happen.jpg
 twitter_card:
