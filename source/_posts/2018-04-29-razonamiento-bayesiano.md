@@ -64,7 +64,7 @@ $$
 La probabilidad que dispare no acierte y sea un francotirador es del 0.1. La siguiente de la misma manera. Todas la probabilidades se pueden visualizar como un arbol.
 
 
-<div class="aic" style="width:460px"><img src="drawing-prob-tree.png" alt="Arbol de probabilidades" width="" height="" border="0" /><br></div>
+<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/drawing-prob-tree.png" alt="Arbol de probabilidades" width="" height="" border="0" /><br></div>
 
 Entonces, la pregunta que debemos responder desde la trinchera es, ¿cuál es la probabilidad que sea un francotirador ($$\mathcal{H_+}$$) dado que ha acertado el disparo a mi casco $$(\mathcal{D_+})$$? El teorema de Bayes nos permite responder a esta pregunta, e incluso nos permite actualizar nuestras creencias según la evidencia que se nos presente en varias ocasiones. A continuación la ecuación de Bayes
 
