@@ -5,7 +5,7 @@ description: Cómo lidiar con la incertidumbre y cómo actualizar nuestras creen
 date: 2018-04-29 22:34
 author: Andres Marrugo
 comments: true
-published: false
+published: true
 categories: blog
 facebook:
     image: http://andresmarrugo.net/es/images/drawing-prob-tree.png
