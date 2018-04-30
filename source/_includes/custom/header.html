@@ -3,4 +3,7 @@
   {% if site.subtitle %}
     <h2>{{ site.subtitle }}</h2>
   {% endif %}
+  {% if page.use_math %}
+    {% include mathjax_support %}
+  {% endif %}
 </hgroup>
