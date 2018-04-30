@@ -20,6 +20,8 @@ use_math: true
 
 El otro día estaba en clase comentándole a mis estudiantes sobre la importancia de darle inteligencia a las máquinas. Evidentemente, no es el tipo de inteligencia que tenemos nosotros, sino más bien la capacidad para responder ante situaciones cambiantes y por supuesto, hacerlo de una manera eficiente y oportuna. Hoy en día, se les da inteligencia a las máquinas usando técnicas de inteligencia artificial, que han sido derivadas a partir de métodos estadísticos que nos permiten lidiar con la incertidumbre.
 
+<!-- more -->
+
 Les comentaba sobre los refrigeradores inteligentes que pueden entrar en modo ahorrador aprendiendo los patrones de uso, según las horas del día, si detectan luz o no, etc. Todas estas variables fluctuan en el tiempo y la máquina debe hacer una estimación a partir de la información de la que dispone sobre cómo será el uso en las siguientes horas. De esta manera, la máquina siempre se está adaptando al entorno y responde de la manera más eficiente posible. 
 
 Nosotros hacemos esto a diario, sólo que no lo hacemos de manera consistente y tampoco somos capaces de hacer valoraciones cuantitativas, pero las máquinas sí. 
