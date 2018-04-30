@@ -1,15 +1,24 @@
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
-    TeX: {
-      equationNumbers: {
-        autoNumber: "AMS"
+  "HTML-CSS": {
+      messageStyle: "normal",
+      linebreaks: {
+          automatic: false
       }
-    },
-    tex2jax: {
-      inlineMath: [ ['$','$'], ['\(', '\)'] ],
-      displayMath: [ ['$$','$$'] ],
-      processEscapes: true,
-    }
+  },
+  tex2jax: { 
+      inlineMath: [["$","$"],["\\(","\\)"]], 
+      displayMath: [["$$","$$"],["\\[","\\]"]], 
+      processEscapes: true
+  },
+  TeX: {
+      equationNumbers: {
+     	 autoNumber: "AMS"
+      },
+      Macros: {
+          tr: "{\\scriptscriptstyle\\mathrm{T}}",
+      }
+  }
   });
 </script>
 <script type="text/javascript"
