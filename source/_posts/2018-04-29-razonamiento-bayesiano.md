@@ -6,7 +6,7 @@ date: 2018-04-29 22:34
 author: Andres Marrugo
 comments: true
 published: true
-categories: blog
+categories: [estadistica,inteligencia artificial, tutorial]
 facebook:
     image: http://andresmarrugo.net/es/images/drawing-prob-tree.png
 twitter_card:
