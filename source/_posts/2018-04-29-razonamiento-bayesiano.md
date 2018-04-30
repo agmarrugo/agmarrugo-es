@@ -86,11 +86,11 @@ Por lo tanto reemplazando los valores obtenemos lo siguiente
 \end{align}
 \\]
 De tal manera que, antes de sacar el casco creías que la probabilidad que ese único soldado fuera un francotirador era del 1%, mientras que después de sacar el casco una vez y al ver que acierta ha subido tu creencia al 4.3%. Esto no puede parecer mucho, y en primera instancia podríamos hasta creer que fue un tiro de suerte. Pero veamos lo que pasa cuando volvemos a probar la realidad una segunda vez. Esta vez usaré el teorema de Bayes, pero mi nuevo *prior* $$P^{\ast}(\mathcal{H_+})$$ será la probabilidad que acabo de calcular de 0.043
-\\[
+$$
 \begin{align}
 &P(\mathcal{H_+}\vert\mathcal{D_+})= 0.0434 \frac{0.09}{(0.9)(0.0434)+(0.2)(0.99)} = 0.165 \enspace.
 \end{align}
-\\]
+$$
 Ahora la probabilidad que sea un francotirador ha subido hasta el 17% aproximadamente, ¡3.8 veces! 
 
 Qué pasa si sacas el casco una tercera vez, pues la probabilidad sube hasta 0.428, así que concluyes que será mejor quedarte quieto y llamar por refuerzos porque estás seguro un 43% que ese tipo es un francotirador!!!
