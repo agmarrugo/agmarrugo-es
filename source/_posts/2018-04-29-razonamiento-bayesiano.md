@@ -44,22 +44,22 @@ Usaremos la notación establecida para hipótesis y datos: sea $$\mathcal{H}_+$$
 
 Se nos dan los siguientes datos,
 
-\\[
+$$
 \begin{align}
 &P(D_+\vert\mathcal{H_+})=0.9 \enspace, \\ 
 &P(D_+\vert\mathcal{H_-})=0.2 \enspace, \\ 
 &P(\mathcal{H_+})=0.01 \enspace.
 \end{align}
-\\]
+$$
 
 La primera expresión se lee, la probabilidad que al disparar acierte y sea un francotirador es del 0.9. Las siguientes de la misma manera. De estos datos podemos calcular los falsos negativos y los verdaderos negativos,
 
-\\[
+$$
 \begin{align}
 &P(D_-\vert\mathcal{H_+})=0.1 \enspace, \\ 
 &P(D_-\vert\mathcal{H_-})=0.8 \enspace.
 \end{align}
-\\]
+$$
 
 La probabilidad que dispare no acierte y sea un francotirador es del 0.1. La siguiente de la misma manera. Todas la probabilidades se pueden visualizar como un arbol.
 
@@ -67,24 +67,29 @@ La probabilidad que dispare no acierte y sea un francotirador es del 0.1. La sig
 <div class="aic" style="width:460px"><img src="drawing-prob-tree.png" alt="Arbol de probabilidades" width="" height="" border="0" /><br></div>
 
 Entonces, la pregunta que debemos responder desde la trinchera es, ¿cuál es la probabilidad que sea un francotirador ($$\mathcal{H_+}$$) dado que ha acertado el disparo a mi casco $$(\mathcal{D_+})$$? El teorema de Bayes nos permite responder a esta pregunta, e incluso nos permite actualizar nuestras creencias según la evidencia que se nos presente en varias ocasiones. A continuación la ecuación de Bayes
-\\[
+
+$$
 \begin{align}
 &P(\mathcal{H_+}\vert\mathcal{D_+})= \underbrace{P(\mathcal{H_+})}_{\text{prior}} \frac{\overbrace{P(\mathcal{D_+}\vert\mathcal{H_+})}^{\text{likelihood}}}{P(\mathcal{D_+})} \enspace.
 \end{align}
-\\]
+$$
+
 Se lee la probabilidad que sea un francotirador dado que ha disparado y acertado. Esta es igual a la información previa (*prior*) de la que disponemos que los francotiradores son pocos (0.1) multiplicado por la posibilidad, también llamada "verosimiltud" (*likelihood*), que ocurra el evento. El numerador lo conocemos, la probabilidad que al disparar y acertar sea un francotirador $$P(\mathcal{D_+}\vert\mathcal{H_+})=0.9$$, pero debemos calcular el denominador, que es una especie de normalización. $$P(\mathcal{D_+})$$ es la probabilidad total que al disparar quien sea (francotirador o soldado regular) acierte. Esta se calcula de la siguiente manera
-\\[
+
+$$
 \begin{align}
 &P(\mathcal{D_+}) = P(\mathcal{D_+}\vert\mathcal{H_+})P(\mathcal{H_+}) + P(\mathcal{D_+}\vert\mathcal{H_-})P(\mathcal{H_-}) \enspace.
 \end{align}
-\\]
+$$
 
 Por lo tanto reemplazando los valores obtenemos lo siguiente
-\\[
+
+$$
 \begin{align}
 &P(\mathcal{H_+}\vert\mathcal{D_+})= 0.01 \frac{0.09}{(0.9)(0.01)+(0.2)(0.99)} = 0.0434 \enspace.
 \end{align}
-\\]
+$$
+
 De tal manera que, antes de sacar el casco creías que la probabilidad que ese único soldado fuera un francotirador era del 1%, mientras que después de sacar el casco una vez y al ver que acierta ha subido tu creencia al 4.3%. Esto no puede parecer mucho, y en primera instancia podríamos hasta creer que fue un tiro de suerte. Pero veamos lo que pasa cuando volvemos a probar la realidad una segunda vez. Esta vez usaré el teorema de Bayes, pero mi nuevo *prior* $$P^{\ast}(\mathcal{H_+})$$ será la probabilidad que acabo de calcular de 0.043
 
 $$
