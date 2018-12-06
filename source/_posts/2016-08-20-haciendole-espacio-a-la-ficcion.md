@@ -8,14 +8,14 @@ comments: true
 published: true
 categories: [la vida, libros]
 facebook:
-    image: https://dl.dropboxusercontent.com/u/5279729/blog-pics/photo-audiobook-mario-benedetti.jpg
+    image: http://andresmarrugo.net/es/images/photo-audiobook-mario-benedetti.jpg
 twitter_card:
     creator: agmarrugo
     type: summary
-    image: https://dl.dropboxusercontent.com/u/5279729/blog-pics/photo-audiobook-mario-benedetti.jpg
+    image: http://andresmarrugo.net/es/images/photo-audiobook-mario-benedetti.jpg
 ---
 
-<div class="aic" style="width:460px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/photo-audiobook-mario-benedetti.jpg" alt="" width="" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/photo-audiobook-mario-benedetti.jpg" alt="" width="" height="" border="0" /><br>
 </div>
 
 El arte es para nosotros como un alimento para sobrellevar la rutina y lo banal. En lo práctico no se encuentra inspiración, en cambio lo bello y sencillo, lo armonioso, nos traslada a otros lugares y nos hace creer en algo mejor que nosotros mismos. De eso se trata la vida -- por lo menos la vida digna. 
