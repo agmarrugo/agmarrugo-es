@@ -8,15 +8,15 @@ comments: true
 published: true
 categories: [academia, la vida]
 facebook:
-    image: https://dl.dropboxusercontent.com/u/5279729/blog-pics/paper-conference.png
+    image: http://andresmarrugo.net/es/images/paper-conference.png
 twitter_card:
     creator: agmarrugo
     type: summary
-    image: https://dl.dropboxusercontent.com/u/5279729/blog-pics/paper-conference.png
+    image: http://andresmarrugo.net/es/images/paper-conference.png
 ---
 
 
-<div class="aic" style="width:460px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/paper-conference.png" alt="Estres academico" width="" height="" border="0" /><br></div>
+<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/paper-conference.png" alt="Estres academico" width="" height="" border="0" /><br></div>
 
 Hay momentos en la vida en que la emoción por haber conseguido algo es rápidamente eclipsada por la realización de las implicaciones que tiene ese acontecimiento. 
 
