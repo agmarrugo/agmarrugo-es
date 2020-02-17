@@ -6,7 +6,7 @@ date: 2018-02-23 23:52
 author: Andres Marrugo
 comments: true
 published: true
-categories: [academia, life]
+categories: [academia, la vida]
 ---
 
 En el mismo espíritu del [blog de Matt Might][1], he decidido comenzar a escribir pensando en mis alumnos. Mis discípulos, si se puede decir así. Porque más que un profesor [uno es un mentor][2]. Uno les enseña el camino y los acompaña, a veces los empuja y otras avanza y espera a que lo alcancen. 
