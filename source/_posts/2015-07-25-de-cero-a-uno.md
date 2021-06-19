@@ -9,7 +9,7 @@ categories: [la vida, academia]
 ---
 
 
-<div class="aic" style="width:256px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/stair-1-2.jpg" alt="Stairs" width="" height="" border="0" /><br>
+<div class="aic" style="width:256px"><img src="http://andresmarrugo.net/es/images/stair-1-2.jpg" alt="Stairs" width="" height="" border="0" /><br>
 </div>
 
 >De 0 a 1 el salto es infinito.      
