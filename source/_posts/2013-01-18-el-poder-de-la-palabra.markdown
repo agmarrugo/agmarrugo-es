@@ -8,7 +8,7 @@ published: true
 categories: [ciencia]
 ---
 
-<div class="aic" style="width:500px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/medium_451296682.jpg" alt="Ulima palabra"><br>
+<div class="aic" style="width:500px"><img src="http://andresmarrugo.net/es/images/medium_451296682.jpg" alt="Ulima palabra"><br>
 photo credit: <a href="http://www.flickr.com/photos/croma/451296682/">Robert Croma</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a></div>
 
 

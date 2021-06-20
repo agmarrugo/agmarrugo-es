@@ -9,7 +9,7 @@ categories: libro
 ---
 
 
-<div class="aic" style="width:256px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/16520g-640.jpg" alt="" width="" height="" border="0" /><br>
+<div class="aic" style="width:256px"><img src="http://andresmarrugo.net/es/images/16520g-640.jpg" alt="" width="" height="" border="0" /><br>
 El Marciano por Andy Weir. </div>
 
 Comencemos el 2015 con una excelente recomendación. Hace unos días comencé a leer[^fn1] una de las historias más fascinantes que he leído en los últimos tiempos. Una historia de ciencia ficción, pero que resulta ser tan "real" que podría pasar fácilmente por una crónica de un programa espacial actual -- o de un futuro cercano. [*El Marciano*](http://en.wikipedia.org/wiki/The_Martian_%28Weir_novel%29 "The Martian (Weir novel) - Wikipedia, the free encyclopedia") por [Andy Weir](http://www.andyweirauthor.com/ "ANDY WEIR") es la historia de un astronauta accidentalmente abandonado en Marte durante una de las primeras misiones tripuladas al gran planeta rojo. La ciencia en la novela es increíblemente precisa, al punto que el autor tuvo que escribir su propio software para el cálculo de trayectorias, entre otras cosas.

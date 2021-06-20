@@ -15,12 +15,12 @@ Hace ya mucho tiempo que preparo mi *curriculum vit&aelig;* en LaTeX. Durante gr
 
 [cv]: http://www.ctan.org/tex-archive/macros/latex2e/contrib/cv
 
-<div class="aic" style="width:460px"><img src="https://dl.dropboxusercontent.com/u/5279729/Screenshot%202014-01-25%2011.13.35.png" alt="" width="" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/Screenshot%202014-01-25%2011.13.35.png" alt="" width="" height="" border="0" /><br>
 *Curriculum vitæ* producido con el paquete CV.</div>
 
 Indudablemente esto es *mucho mejor* que cualquier cv producido en MS Word o procesadores similares. Sin embargo, hace poco más de un año al estar culminando el doctorado, comencé a buscar trabajo y me parecía que era hora de cambiar un poco el estilo del cv. Entre los distintos paquetes disponibles para LaTeX hubo uno que me pareció muy bueno. Era capaz de producir un cv académico, elegante, pero a la vez mucho más estético y divertido. El paquete se llama [moderncv][cvlink], he aquí un ejemplo de mi cv (ahora actualizado)
 
-<div class="aic" style="width:460px"><img src="https://dl.dropboxusercontent.com/u/5279729/Screenshot%202014-01-25%2013.37.05.png" alt="" width="" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/Screenshot%202014-01-25%2013.37.05.png" alt="" width="" height="" border="0" /><br>
 *Curriculum vitæ* producido con el paquete moderncv.</div>
 
 ## Personalización del cv ##

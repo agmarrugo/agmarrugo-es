@@ -8,7 +8,7 @@ published: true
 categories: internet
 ---
 
-<div class="aic" style="width:480px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/origin_2945559128.jpg" alt="Jump on"><br>
+<div class="aic" style="width:480px"><img src="http://andresmarrugo.net/es/images/origin_2945559128.jpg" alt="Jump on"><br>
 photo credit: <a href="http://www.flickr.com/photos/matthamm/2945559128/">Matt Hamm</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>.</div>
 
 De pequeño me enseñaron a no recibir cosas que me ofrezca una persona extraña. De paso también me enseñaron que de lo bueno no dan mucho, y que no hay nada que sea realmente gratis – siempre hay alguna pega. Entonces por qué somos tan dados a darlo todo[^fn1] y tan fácilmente por ahí en el internet. 

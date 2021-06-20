@@ -8,7 +8,7 @@ published: true
 categories: [la vida]
 ---
 
-<div class="aic" style="width:460px"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/Photo%2013-04-14%2020%2059%2019.jpg" alt="" width="460" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/Photo%2013-04-14%2020%2059%2019.jpg" alt="" width="460" height="" border="0" /><br>
 Alejo</div>
 
 Vivir en un mundo que gira a la derecha debe ser incómodo y en ocasiones extraño. Aproximadamente [el 10 por ciento de la población del mundo es zurda versus un aplastante 90 por ciento de diestros][1]. Evidentemente, ser zurdo es poco común, pero además todavía no se entiende bien el por qué de la dominancia de un lado del cuerpo o la destreza[^fn1] de una de las dos manos. 
