@@ -30,5 +30,5 @@ La galería de las notas visuales de la actividad las pueden encontrar [aquí.](
 
 Para votar por las notas que les parecen las mejores agréguenlas como favoritas como se indica en la imagen (Para hacer esto debes tener una cuenta en yahoo).
 
-<div class="aic" style="width:460px"><a href="https://www.flickr.com/photos/copiancestral/albums/72157658363458541/with/21224991016/"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/2015_09_08_13_35_09___Flickr_-_Photo_Sharing_.png" alt="" width="" height="" border="0" /></a><br>
+<div class="aic" style="width:460px"><a href="https://www.flickr.com/photos/copiancestral/albums/72157658363458541/with/21224991016/"><img src="/es/images/docencia-flickr.png" alt="" width="" height="" border="0" /></a><br>
 Agrega como favorita las notas que más te gusten.</div> -->

@@ -7,7 +7,7 @@ comments: true
 categories: [academia,educacion]
 draft: false
 cover:
-  image: "https://dl.dropboxusercontent.com/u/5279729/blog-pics/overleaf_project.png"
+  image: "/es/images/overleaf-project.png"
   alt: "Plantilla LaTeX en Overleaf para informes de laboratorio"
   relative: false
   hiddenInSingle: true
@@ -17,7 +17,7 @@ Una de las grandes barreras de entrada a LaTeX era lo relacionado con la instala
 
 Para solventar el problema de la instalación, y abrir nuevas oportunidades en la creación y edición de documentos se creó el servicio [overleaf][3] (antiguamente WriteLatex). Esencialmente es un editor de LaTeX en la web que compila el documento en la medida en que se va escribiendo. A continuación un ejemplo:
 
-<div class="aic" style="width:460px"><a href="https://dl.dropboxusercontent.com/u/5279729/blog-pics/overleaf_project.png"><img src="https://dl.dropboxusercontent.com/u/5279729/blog-pics/overleaf_project.png" alt="" width="460" height="" border="0" /></a><br>
+<div class="aic" style="width:460px"><a href="/es/images/overleaf-project.png"><img src="/es/images/overleaf-project.png" alt="" width="460" height="" border="0" /></a><br>
 Interfaz de Overleaf.</div>
 
 Una de las ventajas que ofrece es la disponibilidad de plantillas, listas para usar para preparar todo tipo de documentos. Desde artículos hasta tesis de doctorado y presentaciones. De hecho ya la mayoría de universidades del mundo han subido sus plantillas a la plataforma. Cualquier estudiante sólo tiene que iniciar un proyecto con la plantilla que desee y después sólo tiene que preocuparse por el contenido del documento, *no la apariencia*. Ese es el atractivo de LaTeX.

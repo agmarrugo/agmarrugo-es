@@ -7,14 +7,14 @@ author: Andres Marrugo
 comments: true
 categories: [la vida]
 facebook:
-    image: https://dl.dropboxusercontent.com/u/5279729/blog-pics/IMG_6395.jpg
+    image: /es/images/que-nos-dejen-tranquilos.jpg
 twitter_card:
     creator: agmarrugo
     type: summary
-    image: https://dl.dropboxusercontent.com/u/5279729/blog-pics/IMG_6395.jpg
+    image: /es/images/que-nos-dejen-tranquilos.jpg
 draft: false
 cover:
-  image: "https://dl.dropboxusercontent.com/u/5279729/blog-pics/IMG_6395.jpg"
+  image: "/es/images/que-nos-dejen-tranquilos.jpg"
   alt: "Que nos dejen tranquilos"
   relative: false
   hiddenInSingle: false
