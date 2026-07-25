@@ -13,9 +13,14 @@ twitter_card:
     type: summary
     image: http://andresmarrugo.net/es/images/nico-alo-muralla.jpeg
 draft: false
+cover:
+  image: "/es/images/nico-alo-muralla.jpeg"
+  alt: "La distancia más corta"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/nico-alo-muralla.jpeg" alt="" width="" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="/es/images/nico-alo-muralla.jpeg" alt="" width="" height="" border="0" /><br>
 </div>
 
 

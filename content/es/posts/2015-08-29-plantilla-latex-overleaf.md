@@ -6,6 +6,11 @@ author: Andres Marrugo
 comments: true
 categories: [academia,educacion]
 draft: false
+cover:
+  image: "https://dl.dropboxusercontent.com/u/5279729/blog-pics/overleaf_project.png"
+  alt: "Plantilla LaTeX en Overleaf para informes de laboratorio"
+  relative: false
+  hiddenInSingle: true
 ---
 
 Una de las grandes barreras de entrada a LaTeX era lo relacionado con la instalación y compilación de documentos. LaTeX técnicamente no es un lenguaje de programación, pero para efectos prácticos es indistinguible de uno. Y esto complica un poco su utilización al principio, muchos abandonan y regresan a *seguir peleando con MS Word.* <!-- more --> (Para quien esté perdido, ["LaTeX es un es un sistema de composición de textos, orientado a la creación de documentos escritos que presenten una alta calidad tipográfica"][1]. Hace no mucho escribí [una entrada sobre cómo creo mi cv en LaTeX][2] – la calidad es sin igual.)

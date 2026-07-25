@@ -14,9 +14,14 @@ twitter_card:
     image: http://andresmarrugo.net/es/images/calvin-essay-writing.gif
 use_math: false
 draft: false
+cover:
+  image: "/es/images/calvin-essay-writing.gif"
+  alt: "Sobre el discurso académico"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/calvin-essay-writing.gif" alt="" width="" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="/es/images/calvin-essay-writing.gif" alt="" width="" height="" border="0" /><br>
 Calvin and Hobbes by Bill Watterson.</div>
 
 

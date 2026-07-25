@@ -13,9 +13,14 @@ twitter_card:
     type: summary
     image: http://andresmarrugo.net/es/images/photo-audiobook-mario-benedetti.jpg
 draft: false
+cover:
+  image: "/es/images/photo-audiobook-mario-benedetti.jpg"
+  alt: "Haci&eacute;ndole espacio a la ficción"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/photo-audiobook-mario-benedetti.jpg" alt="" width="" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="/es/images/photo-audiobook-mario-benedetti.jpg" alt="" width="" height="" border="0" /><br>
 </div>
 
 El arte es para nosotros como un alimento para sobrellevar la rutina y lo banal. En lo práctico no se encuentra inspiración, en cambio lo bello y sencillo, lo armonioso, nos traslada a otros lugares y nos hace creer en algo mejor que nosotros mismos. De eso se trata la vida -- por lo menos la vida digna. 

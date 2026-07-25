@@ -14,6 +14,11 @@ twitter_card:
     image: http://andresmarrugo.net/es/images/drawing-prob-tree.png
 use_math: true
 draft: false
+cover:
+  image: "/es/images/drawing-prob-tree.png"
+  alt: "Arbol de probabilidades"
+  relative: false
+  hiddenInSingle: true
 ---
 
 El otro día estaba en clase comentándole a mis estudiantes sobre la importancia de darle inteligencia a las máquinas. Evidentemente, no es el tipo de inteligencia que tenemos nosotros, sino más bien la capacidad para responder ante situaciones cambiantes y por supuesto, hacerlo de una manera eficiente y oportuna. Hoy en día, se les da inteligencia a las máquinas usando técnicas de inteligencia artificial, que han sido derivadas a partir de métodos estadísticos que nos permiten lidiar con la incertidumbre.
@@ -62,7 +67,7 @@ $$
 La probabilidad que dispare no acierte y sea un francotirador es del 0.1. La siguiente de la misma manera. Todas la probabilidades se pueden visualizar como un arbol.
 
 
-<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/drawing-prob-tree.png" alt="Arbol de probabilidades" width="" height="" border="0" /><br></div>
+<div class="aic" style="width:460px"><img src="/es/images/drawing-prob-tree.png" alt="Arbol de probabilidades" width="" height="" border="0" /><br></div>
 
 Entonces, la pregunta que debemos responder desde la trinchera es, ¿cuál es la probabilidad que sea un francotirador ($$\mathcal{H_+}$$) dado que ha acertado el disparo a mi casco $$(\mathcal{D_+})$$? El teorema de Bayes nos permite responder a esta pregunta, e incluso nos permite actualizar nuestras creencias según la evidencia que se nos presente en varias ocasiones. A continuación la ecuación de Bayes
 

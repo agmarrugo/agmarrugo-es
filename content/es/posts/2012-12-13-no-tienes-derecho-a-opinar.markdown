@@ -6,9 +6,14 @@ author: Andres Marrugo
 comments: true
 categories: [educacion, la vida]
 draft: false
+cover:
+  image: "/es/images/medium_3133604390.jpg"
+  alt: "No, no tienes derecho a opinar"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:500px"><img src="http://andresmarrugo.net/es/images/medium_3133604390.jpg" alt=""><br>
+<div class="aic" style="width:500px"><img src="/es/images/medium_3133604390.jpg" alt=""><br>
 photo credit: <a href="http://www.flickr.com/photos/will-lion/3133604390/">Will Lion</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>.</div>
 
 

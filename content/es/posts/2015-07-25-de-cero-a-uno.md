@@ -6,9 +6,14 @@ author: Andres Marrugo
 comments: true
 categories: [la vida, academia]
 draft: false
+cover:
+  image: "/es/images/stair-1-2.jpg"
+  alt: "Stairs"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:256px"><img src="http://andresmarrugo.net/es/images/stair-1-2.jpg" alt="Stairs" width="" height="" border="0" /><br>
+<div class="aic" style="width:256px"><img src="/es/images/stair-1-2.jpg" alt="Stairs" width="" height="" border="0" /><br>
 </div>
 
 >De 0 a 1 el salto es infinito.      

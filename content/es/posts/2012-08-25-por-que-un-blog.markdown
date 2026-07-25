@@ -6,9 +6,14 @@ url: /es/blog/2012/08/25/por-que-un-blog/
 comments: true
 categories: blog
 draft: false
+cover:
+  image: "https://farm9.staticflickr.com/8443/7883291906_479ae82a40_n.jpg"
+  alt: "Seated Woman with Blog, after Picasso"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="air" style="width:225px"><a href="http://www.flickr.com/photos/copiancestral/7883291906/" title="Seated Woman with Blog, after Picasso by Mike Licht on Flickr"><img src="http://farm9.staticflickr.com/8443/7883291906_479ae82a40_n.jpg" width="225" height="240" alt="Seated Woman with Blog, after Picasso"></a><br>
+<div class="air" style="width:225px"><a href="http://www.flickr.com/photos/copiancestral/7883291906/" title="Seated Woman with Blog, after Picasso by Mike Licht on Flickr"><img src="https://farm9.staticflickr.com/8443/7883291906_479ae82a40_n.jpg" width="225" height="240" alt="Seated Woman with Blog, after Picasso"></a><br>
 photo by Mike Licht. </div>
 
 

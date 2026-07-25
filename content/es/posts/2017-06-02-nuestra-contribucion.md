@@ -13,9 +13,14 @@ twitter_card:
     type: summary
     image: http://andresmarrugo.net/es/images/dn13599-1_567.jpg
 draft: false
+cover:
+  image: "/es/images/dn13599-1_567.jpg"
+  alt: "Nuestra contribución"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/dn13599-1_567.jpg" alt="" width="" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="/es/images/dn13599-1_567.jpg" alt="" width="" height="" border="0" /><br>
 <em>Unravelling Boléro</em> por Anne Adams.</div> 
 
 Como profesor usualmente nos preguntan sobre nuestra [producción intelectual][4], sobre los proyectos y recursos que conseguimos, pero rara vez nos preguntan sobre cuantos jóvenes hemos logrado sacar adelante. A veces la pregunta viene más concreta, cuantas tesis has dirigido. Pero detrás de cada tesis, hay una historia inmensa. 

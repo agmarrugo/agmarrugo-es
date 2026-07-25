@@ -6,6 +6,11 @@ author: Andres Marrugo
 comments: true
 categories: blog
 draft: false
+cover:
+  image: "https://farm9.staticflickr.com/8453/8064421195_1665804eb0_m.jpg"
+  alt: "Combined Feed"
+  relative: false
+  hiddenInSingle: true
 ---
 
 Suscribirte a este blog es muy fácil, puedes hacerlo vía RSS o por email. Estas opciones están dispuestas en la parte inferior de la barra lateral. 
@@ -21,4 +26,4 @@ Hay algo que quiero aclarar respecto de este blog. En realidad son dos blogs y p
 A partir de ahora también estará disponible la opción de suscribirse al blog combinado (por así decirlo), el contenido en inglés más el contenido en español. El procedimiento es el mismo que el anterior y el enlace también está ubicado en la parte inferior de la barra lateral. 
 
 
-<div class="aic" style="width:204px"><a href="http://www.flickr.com/photos/copiancestral/8064421195/" title="Combined Feed by copiancestral, on Flickr"><img src="http://farm9.staticflickr.com/8453/8064421195_1665804eb0_m.jpg" width="204" height="115" alt="Combined Feed"></a><br></div>
+<div class="aic" style="width:204px"><a href="http://www.flickr.com/photos/copiancestral/8064421195/" title="Combined Feed by copiancestral, on Flickr"><img src="https://farm9.staticflickr.com/8453/8064421195_1665804eb0_m.jpg" width="204" height="115" alt="Combined Feed"></a><br></div>

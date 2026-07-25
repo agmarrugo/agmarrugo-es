@@ -6,9 +6,14 @@ author: Andres Marrugo
 comments: true
 categories: [blog, ios, la vida, libros]
 draft: false
+cover:
+  image: "https://farm9.staticflickr.com/8044/8128869627_e2175169fd.jpg"
+  alt: "20121027-PA277282"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:500px"><a href="http://www.flickr.com/photos/copiancestral/8128869627/" title="A brilliant novel in the works"><img src="http://farm9.staticflickr.com/8044/8128869627_e2175169fd.jpg" width="500" height="375" alt="20121027-PA277282"></a></div>
+<div class="aic" style="width:500px"><a href="http://www.flickr.com/photos/copiancestral/8128869627/" title="A brilliant novel in the works"><img src="https://farm9.staticflickr.com/8044/8128869627_e2175169fd.jpg" width="500" height="375" alt="20121027-PA277282"></a></div>
 
 El otro día me gané un libro que se sorteó en un [blog al que sigo][1].  Me hizo mucha ilusión ya que tenía muchas ganas de leerlo. <del>De no habérmelo ganado, probablemente lo hubiese comprado,</del> (*incluso teniéndolo en físico he decidido comprarlo también en formato digital*) pues el autor es una de esas personas peculiares del internet[^fn1] con una historia fascinante por contar y me siento orgulloso al apoyar a alguien así. El libro se llama "[A Brilliant Novel in the Works][2]" por [Yuvi Zalkow][3].
 

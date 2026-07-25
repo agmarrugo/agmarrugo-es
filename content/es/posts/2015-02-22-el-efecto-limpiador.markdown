@@ -6,9 +6,14 @@ author: Andres Marrugo
 comments: true
 categories: [la vida]
 draft: false
+cover:
+  image: "/es/images/6885374641_416470551c.jpg"
+  alt: "El efecto limpiador"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/6885374641_416470551c.jpg" alt="" width="" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="/es/images/6885374641_416470551c.jpg" alt="" width="" height="" border="0" /><br>
 photo credit: <a href="http://www.flickr.com/photos/61904391@N08/6885374641">Jeff Parrott</a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by/2.0/">cc</a>.</div>
 
 *La ilusión de lo que podría ser, siempre es más grande y poderosa que la realidad de lo que realmente termina ocurriendo.* 

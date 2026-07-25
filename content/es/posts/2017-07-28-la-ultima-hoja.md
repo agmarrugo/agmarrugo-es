@@ -13,9 +13,14 @@ twitter_card:
     type: summary
     image: http://andresmarrugo.net/es/images/inflection-points.png
 draft: false
+cover:
+  image: "/es/images/inflection-points.png"
+  alt: "La última hoja"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:460px"> <img src="http://andresmarrugo.net/es/images/inflection-points.png" alt="" width="" height="" border="0" /> <br>
+<div class="aic" style="width:460px"> <img src="/es/images/inflection-points.png" alt="" width="" height="" border="0" /> <br>
 Inflection points.</div>
 
 

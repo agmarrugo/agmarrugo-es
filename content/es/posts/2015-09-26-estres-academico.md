@@ -13,9 +13,14 @@ twitter_card:
     type: summary
     image: http://andresmarrugo.net/es/images/paper-conference.png
 draft: false
+cover:
+  image: "/es/images/paper-conference.png"
+  alt: "Estres academico"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/paper-conference.png" alt="Estres academico" width="" height="" border="0" /><br></div>
+<div class="aic" style="width:460px"><img src="/es/images/paper-conference.png" alt="Estres academico" width="" height="" border="0" /><br></div>
 
 Hay momentos en la vida en que la emoción por haber conseguido algo es rápidamente eclipsada por la realización de las implicaciones que tiene ese acontecimiento. 
 

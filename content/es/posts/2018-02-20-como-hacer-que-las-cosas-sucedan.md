@@ -13,9 +13,14 @@ twitter_card:
     type: summary
     image: http://andresmarrugo.net/es/images/make-things-happen.jpg
 draft: false
+cover:
+  image: "/es/images/make-things-happen.jpg"
+  alt: "Cómo hacer que las cosas sucedan"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/make-things-happen.jpg" alt="" width="" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="/es/images/make-things-happen.jpg" alt="" width="" height="" border="0" /><br>
 photo by <a href="https://www.publicdomainpictures.net/view-image.php?image=172042&picture=make-things-happen">George Hodan</a> cc.</div>
 
 

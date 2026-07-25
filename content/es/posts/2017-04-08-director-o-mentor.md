@@ -13,9 +13,14 @@ twitter_card:
     type: summary
     image: http://andresmarrugo.net/es/images/640px-Apprenticeship.jpg
 draft: false
+cover:
+  image: "/es/images/640px-Apprenticeship.jpg"
+  alt: "Apprenticeship"
+  relative: false
+  hiddenInSingle: true
 ---
 
-<div class="aic" style="width:460px"><img src="http://andresmarrugo.net/es/images/640px-Apprenticeship.jpg" alt="Apprenticeship" width="" height="" border="0" /><br>
+<div class="aic" style="width:460px"><img src="/es/images/640px-Apprenticeship.jpg" alt="Apprenticeship" width="" height="" border="0" /><br>
 pintura por Louis-Emile Adan, 1914.</div>
 
 > A los niños se les debe enseñar cómo pensar, no qué pensar
