@@ -1,0 +1,19 @@
+name: Rebuild bilingual site
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ask the English repository to rebuild
+        env:
+          GH_TOKEN: ${{ secrets.ENGLISH_REPO_PAT }}
+        run: |
+          gh api --method POST \
+            repos/agmarrugo/agmarrugo.github.com/dispatches \
+            -f event_type=spanish-updated
