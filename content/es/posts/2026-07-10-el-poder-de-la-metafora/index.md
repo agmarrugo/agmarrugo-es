@@ -14,7 +14,7 @@ cover:
 
 <figure>
 <img src="cover.jpeg" alt="" loading="lazy">
-<figcaption>By John Tenniel — <a href="http://www.fromoldbooks.org/LewisCaroll-AliceThroughTheLookingGlass/pages/036-red-queen-chastises-alice/730x907-q75.html" class="markup--anchor markup--figure-anchor" data-href="http://www.fromoldbooks.org/LewisCaroll-AliceThroughTheLookingGlass/pages/036-red-queen-chastises-alice/730x907-q75.html" rel="nofollow noopener" target="_blank">http://www.fromoldbooks.org/LewisCaroll-AliceThroughTheLookingGlass/pages/036-red-queen-chastises-alice/730x907-q75.html</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=3585837" class="markup--anchor markup--figure-anchor" data-href="https://commons.wikimedia.org/w/index.php?curid=3585837" rel="nofollow noopener" target="_blank">https://commons.wikimedia.org/w/index.php?curid=3585837</a></figcaption>
+<figcaption>Ilustración de <a href="http://www.fromoldbooks.org/LewisCaroll-AliceThroughTheLookingGlass/pages/036-red-queen-chastises-alice/730x907-q75.html">John Tenniel</a> para <em>Through the Looking-Glass</em>. Dominio público; <a href="https://commons.wikimedia.org/w/index.php?curid=3585837">fuente: Wikimedia Commons</a>.</figcaption>
 </figure>
 
 Una metáfora es esa imagen mental que se fija y perdura, que acerca y ayuda con el entendimiento, así sea aproximada y no del todo precisa. Pero ese es su poder.

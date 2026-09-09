@@ -7,18 +7,23 @@ author: Andres Marrugo
 comments: true
 categories: [la vida]
 facebook:
-    image: http://andresmarrugo.net/images/photo.png
+    image: https://andresmarrugo.net/es/blog/2016/06/11/burbujas/cover.jpg
 twitter_card:
     creator: agmarrugo
     type: summary
-    image: http://andresmarrugo.net/images/photo.png
+    image: https://andresmarrugo.net/es/blog/2016/06/11/burbujas/cover.jpg
 draft: false
 cover:
-  image: "/images/photo.png"
-  alt: "Burbujas"
-  relative: false
-  hiddenInSingle: false
+  image: "cover.jpg"
+  alt: "Una burbuja de jabón reflejando su entorno"
+  relative: true
+  hiddenInSingle: true
 ---
+
+<figure>
+  <img src="cover.jpg" alt="Una burbuja de jabón reflejando su entorno" loading="lazy">
+  <figcaption>Foto de <a href="https://unsplash.com/@markusspiske?utm_source=andresmarrugo.net&amp;utm_medium=referral">Markus Spiske</a> en <a href="https://unsplash.com/photos/shallow-focus-photo-of-bubble-qR-Dj7c2ilk?utm_source=andresmarrugo.net&amp;utm_medium=referral">Unsplash</a>.</figcaption>
+</figure>
 
 En uno de los últimos episodios de [You Are Not So Smart Podcast][1] en que discutían sobre falacias lógicas y la argumentación, tocaron un tema que creo que es relevante ahora más que nunca. Además el ejemplo que pusieron es tan real que me dejó perplejo. 
 
