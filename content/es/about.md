@@ -10,6 +10,8 @@ footer: true
 
 Me llamo Andrés Marrugo Hernández. Soy profesor, investigador, ingeniero y un soñador empedernido que se las tira de escritor cuando nadie está viendo.
 
+![Andrés Marrugo durante una conferencia](/images/andres.jpg)
+
 Vivo en Cartagena, Colombia, y trabajo en la Universidad Tecnológica de Bolívar. Mi carrera académica ha transitado por la metrología óptica, el sensado 3D, el procesamiento de imágenes, la visión por computador, las imágenes médicas y, más recientemente, la inteligencia artificial. Me formé primero como ingeniero mecatrónico, aunque a mitad de camino llegué a estar bastante convencido de que debía haber estudiado Física. En algún momento me di cuenta de que podía unir mi pasión por el procesamiento de imágenes con la física, así que terminé haciendo una maestría en fotónica y un doctorado en ingeniería óptica. Quizás ese desvío era el verdadero camino.
 
 Durante varios años estuve al frente de la Vicerrectoría Académica de la universidad. Esa experiencia me llevó a pensar con más cuidado sobre la educación, para qué sirve una universidad, qué vale la pena enseñar y qué significa realmente ayudar a alguien a aprender. Tengo menos certezas sobre esas preguntas que hace unos años. Considero eso un avance.
