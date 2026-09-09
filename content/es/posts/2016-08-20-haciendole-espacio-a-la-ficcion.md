@@ -1,5 +1,5 @@
 ---
-title: "Haci&eacute;ndole espacio a la ficción"
+title: "Haciéndole espacio a la ficción"
 description: Porque sin la ficción, la vida es plana. Y en los mundos planos no existen las montañas rusas.
 date: 2016-08-20T22:57:00-05:00
 url: /es/blog/2016/08/20/haciendole-espacio-a-la-ficcion/
@@ -15,7 +15,7 @@ twitter_card:
 draft: false
 cover:
   image: "/es/images/photo-audiobook-mario-benedetti.jpg"
-  alt: "Haci&eacute;ndole espacio a la ficción"
+  alt: "Haciéndole espacio a la ficción"
   relative: false
   hiddenInSingle: true
 ---
