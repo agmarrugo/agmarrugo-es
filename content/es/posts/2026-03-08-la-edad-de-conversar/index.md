@@ -4,7 +4,7 @@ date: 2026-03-08T04:16:51.989Z
 url: /es/blog/2026/03/08/la-edad-de-conversar/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/la-edad-de-conversar-48e8b05d8c9c"
-draft: false
+draft: true
 cover:
   image: "cover.jpeg"
   alt: "La edad de conversar"

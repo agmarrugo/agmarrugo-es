@@ -4,7 +4,7 @@ date: 2026-05-12T13:28:38.388Z
 url: /es/blog/2026/05/12/sin-hacer-ruido/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/sin-hacer-ruido-fb52e8ad625a"
-draft: false
+draft: true
 cover:
   image: "cover.jpeg"
   alt: "Sin hacer ruido"

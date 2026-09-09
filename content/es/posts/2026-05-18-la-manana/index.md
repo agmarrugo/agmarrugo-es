@@ -4,7 +4,7 @@ date: 2026-05-18T20:07:57.334Z
 url: /es/blog/2026/05/18/la-manana/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/la-ma%C3%B1ana-5512ea2ccc5d"
-draft: false
+draft: true
 cover:
   image: "cover.jpeg"
   alt: "La mañana"

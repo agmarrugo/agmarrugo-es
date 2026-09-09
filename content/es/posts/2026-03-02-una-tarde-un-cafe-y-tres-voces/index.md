@@ -4,7 +4,7 @@ date: 2026-03-02T02:03:26.443Z
 url: /es/blog/2026/03/02/una-tarde-un-cafe-y-tres-voces/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/una-tarde-un-caf%C3%A9-y-tres-voces-c2852ab7a13b"
-draft: false
+draft: true
 cover:
   image: "cover.jpeg"
   alt: "Una tarde, un café y tres voces"

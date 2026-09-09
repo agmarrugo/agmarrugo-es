@@ -4,7 +4,7 @@ date: 2025-08-09T15:22:49.360Z
 url: /es/blog/2025/08/09/un-jueves-que-no-es-jueves/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/un-jueves-que-no-es-jueves-fbd8c802caa5"
-draft: false
+draft: true
 cover:
   image: "cover.jpeg"
   alt: "Un jueves que no es jueves"

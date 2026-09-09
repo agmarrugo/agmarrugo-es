@@ -4,7 +4,7 @@ date: 2026-03-14T12:36:54.870Z
 url: /es/blog/2026/03/14/una-manana/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/una-ma%C3%B1ana-ee684351309c"
-draft: false
+draft: true
 cover:
   image: "cover.jpeg"
   alt: "Una mañana"
