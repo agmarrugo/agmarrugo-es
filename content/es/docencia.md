@@ -8,7 +8,7 @@ sharing: true
 footer: true
 ---
 
-Lo relacionado con mis actividades de docencia a nivel de posgrado lo puedes hallar en la página del laboratorio <http://opilab.unitecnologica.edu.co>
+Lo relacionado con mis actividades de docencia a nivel de posgrado lo puedes hallar en la [página de docencia del laboratorio OPI](https://opi-lab.github.io/teaching/).
 
 <!-- Aquí hay algunos recursos sobre los cursos que imparto en la universidad.
 
