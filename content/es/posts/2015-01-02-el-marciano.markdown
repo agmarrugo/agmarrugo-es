@@ -4,7 +4,7 @@ date: 2015-01-08T01:49:00-05:00
 url: /es/blog/2015/01/08/el-marciano/
 author: Andres Marrugo
 comments: true
-categories: libro
+categories: libros
 draft: false
 cover:
   image: "/es/images/16520g-640.jpg"
