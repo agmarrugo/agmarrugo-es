@@ -4,6 +4,8 @@ date: 2015-11-04T20:44:48.321Z
 url: /es/blog/2015/11/04/la-maquina-de-sumar/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/la-m%C3%A1quina-de-sumar-41e4c7078bb0"
+categories: [la vida]
+tags: [tecnología, infancia]
 draft: false
 cover:
   image: "cover.png"

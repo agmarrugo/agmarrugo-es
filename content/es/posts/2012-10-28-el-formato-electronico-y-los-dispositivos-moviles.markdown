@@ -4,7 +4,7 @@ date: 2012-10-28T00:36:00-05:00
 url: /es/blog/2012/10/28/el-formato-electronico-y-los-dispositivos-moviles/
 author: Andres Marrugo
 comments: true
-categories: [blog, ios, la vida, libros]
+categories: [blog, iOS, la vida, libros]
 draft: false
 cover:
   image: "https://farm9.staticflickr.com/8044/8128869627_e2175169fd.jpg"

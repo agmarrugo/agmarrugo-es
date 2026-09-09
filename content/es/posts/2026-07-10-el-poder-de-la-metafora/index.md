@@ -4,6 +4,8 @@ date: 2026-07-10T12:43:48.472Z
 url: /es/blog/2026/07/10/el-poder-de-la-metafora/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/el-poder-de-la-met%C3%A1fora-0331afbb1e53"
+categories: [escritura]
+tags: [metáforas, lenguaje]
 draft: false
 cover:
   image: "cover.jpeg"

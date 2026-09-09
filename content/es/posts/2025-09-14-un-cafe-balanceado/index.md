@@ -4,6 +4,8 @@ date: 2025-09-14T22:35:21.812Z
 url: /es/blog/2025/09/14/un-cafe-balanceado/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/un-caf%C3%A9-balanceado-c75b350a8b68"
+categories: [la vida]
+tags: [café, pareja]
 draft: false
 cover:
   image: "cover.jpeg"

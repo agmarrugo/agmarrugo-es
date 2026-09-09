@@ -4,6 +4,8 @@ date: 2024-11-04T20:21:57.587Z
 url: /es/blog/2024/11/04/una-taza-de-cafe/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/una-taza-de-caf%C3%A9-8316d7f59553"
+categories: [la vida]
+tags: [café, cotidianeidad]
 draft: false
 cover:
   image: "cover.jpeg"

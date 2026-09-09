@@ -4,6 +4,8 @@ date: 2025-06-25T02:45:13.093Z
 url: /es/blog/2025/06/25/cuando-la-infancia-tenia-apellido-compartido/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/cuando-la-infancia-ten%C3%ADa-apellido-compartido-76c8a5634d34"
+categories: [la vida]
+tags: [familia, infancia]
 draft: false
 cover:
   image: "cover.jpeg"

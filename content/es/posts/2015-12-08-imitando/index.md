@@ -4,6 +4,8 @@ date: 2015-12-08T07:00:00.000Z
 url: /es/blog/2015/12/08/imitando/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/imitando-e6932f6d290c"
+categories: [escritura, la vida]
+tags: [creatividad, imitación]
 draft: false
 cover:
   image: "cover.png"

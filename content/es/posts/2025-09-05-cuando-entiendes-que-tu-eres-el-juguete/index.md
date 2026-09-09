@@ -4,6 +4,8 @@ date: 2025-09-05T02:41:38.213Z
 url: /es/blog/2025/09/05/cuando-entiendes-que-tu-eres-el-juguete/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/cuando-entiendes-que-t%C3%BA-eres-el-juguete-bf22d549d08f"
+categories: [la vida]
+tags: [paternidad, infancia]
 draft: false
 cover:
   image: "cover.jpeg"

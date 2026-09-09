@@ -4,6 +4,8 @@ date: 2026-02-01T02:30:42.066Z
 url: /es/blog/2026/02/01/lo-que-dice-un-cafe/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/lo-que-dice-un-caf%C3%A9-d32c9ddc9fef"
+categories: [la vida]
+tags: [paternidad, café]
 draft: false
 cover:
   image: "cover.jpeg"

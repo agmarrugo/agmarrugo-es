@@ -4,6 +4,8 @@ date: 2025-09-10T03:33:02.533Z
 url: /es/blog/2025/09/10/ecos-compartidos/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/ecos-compartidos-73f66cc5022d"
+categories: [la vida]
+tags: [conversaciones, cotidianeidad]
 draft: false
 cover:
   image: "cover.jpeg"

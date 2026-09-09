@@ -4,6 +4,8 @@ date: 2025-07-06T21:37:18.365Z
 url: /es/blog/2025/07/06/el-aroma-de-lo-hecho-en-casa/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/el-aroma-de-lo-hecho-en-casa-3a195ea2f3c7"
+categories: [la vida]
+tags: [familia, cocina, memoria]
 draft: false
 cover:
   image: "cover.jpeg"

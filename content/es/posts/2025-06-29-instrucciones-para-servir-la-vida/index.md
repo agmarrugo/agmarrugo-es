@@ -4,6 +4,8 @@ date: 2025-06-29T06:19:59.814Z
 url: /es/blog/2025/06/29/instrucciones-para-servir-la-vida/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/instrucciones-para-servir-la-vida-e7a637a7902f"
+categories: [escritura, la vida]
+tags: [poesía, cotidianeidad]
 draft: false
 cover:
   image: "cover.jpeg"

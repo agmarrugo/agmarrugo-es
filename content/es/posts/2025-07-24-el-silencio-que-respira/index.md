@@ -4,6 +4,8 @@ date: 2025-07-24T18:53:20.017Z
 url: /es/blog/2025/07/24/el-silencio-que-respira/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/el-silencio-que-respira-f31ddb52eabf"
+categories: [la vida]
+tags: [naturaleza, atención]
 draft: false
 cover:
   image: "cover.jpeg"

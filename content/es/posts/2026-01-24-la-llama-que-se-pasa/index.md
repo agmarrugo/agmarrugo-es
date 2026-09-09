@@ -4,6 +4,8 @@ date: 2026-01-24T03:06:07.209Z
 url: /es/blog/2026/01/24/la-llama-que-se-pasa/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/la-llama-que-se-pasa-e03980b93ee8"
+categories: [la vida]
+tags: [paternidad, cocina]
 draft: false
 cover:
   image: "cover.jpeg"

@@ -4,6 +4,8 @@ date: 2018-07-16T04:20:27.821Z
 url: /es/blog/2018/07/16/sobre-el-aburrimiento/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/sobre-el-aburrimiento-4d9298cecc4f"
+categories: [la vida, educación]
+tags: [infancia, aburrimiento]
 draft: false
 cover:
   image: "cover.jpeg"

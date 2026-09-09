@@ -4,6 +4,8 @@ date: 2025-11-07T03:25:09.191Z
 url: /es/blog/2025/11/07/la-semana-que-no-es-semana/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/la-semana-que-no-es-semana-ec76edeb25e1"
+categories: [la vida]
+tags: [cansancio, cotidianeidad]
 draft: false
 cover:
   image: "cover.jpeg"

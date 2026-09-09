@@ -4,6 +4,8 @@ date: 2025-06-16T03:40:47.442Z
 url: /es/blog/2025/06/16/una-tarde-de-junio/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/una-tarde-de-junio-3f5bf6342f0b"
+categories: [la vida, libros]
+tags: [lectura, paternidad]
 draft: false
 cover:
   image: "cover.jpeg"

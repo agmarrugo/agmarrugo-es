@@ -4,6 +4,8 @@ date: 2015-10-16T16:11:22.018Z
 url: /es/blog/2015/10/16/on-re-learning-things/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/on-re-learning-things-adfa2b6d73fb"
+categories: [academia, educación]
+tags: [aprendizaje, docencia]
 draft: false
 ---
 

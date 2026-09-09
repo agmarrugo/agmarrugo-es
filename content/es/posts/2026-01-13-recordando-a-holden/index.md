@@ -4,6 +4,8 @@ date: 2026-01-13T03:23:34.539Z
 url: /es/blog/2026/01/13/recordando-a-holden/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/recordando-a-holden-9bc86394bf4a"
+categories: [libros, la vida]
+tags: [literatura, adolescencia]
 draft: false
 cover:
   image: "cover.jpeg"

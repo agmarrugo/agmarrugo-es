@@ -4,6 +4,8 @@ date: 2026-07-13T14:23:30.587Z
 url: /es/blog/2026/07/13/igual-que-aquella-noche/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/igual-que-aquella-noche-1a509cfe45ab"
+categories: [la vida]
+tags: [música, memoria, nostalgia]
 draft: false
 cover:
   image: "cover.jpeg"

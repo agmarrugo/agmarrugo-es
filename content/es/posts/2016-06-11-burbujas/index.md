@@ -5,13 +5,14 @@ date: 2016-06-11T12:41:00-05:00
 url: /es/blog/2016/06/11/burbujas/
 author: Andres Marrugo
 comments: true
-categories: [la vida]
 facebook:
     image: https://andresmarrugo.net/es/blog/2016/06/11/burbujas/cover.jpg
 twitter_card:
     creator: agmarrugo
     type: summary
     image: https://andresmarrugo.net/es/blog/2016/06/11/burbujas/cover.jpg
+categories: [la vida]
+tags: [redes sociales, comportamiento humano]
 draft: false
 cover:
   image: "cover.jpg"

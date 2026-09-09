@@ -4,6 +4,8 @@ date: 2025-06-21T21:15:31.849Z
 url: /es/blog/2025/06/21/sin-cita-previa/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/sin-cita-previa-7c2898293ad7"
+categories: [academia, la vida]
+tags: [trabajo, conversaciones]
 draft: false
 cover:
   image: "cover.jpeg"

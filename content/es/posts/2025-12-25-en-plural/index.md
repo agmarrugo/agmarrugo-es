@@ -4,6 +4,8 @@ date: 2025-12-25T01:49:43.777Z
 url: /es/blog/2025/12/25/en-plural/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/en-plural-86757d3d41f0"
+categories: [la vida]
+tags: [familia, reflexiones]
 draft: false
 cover:
   image: "cover.jpeg"

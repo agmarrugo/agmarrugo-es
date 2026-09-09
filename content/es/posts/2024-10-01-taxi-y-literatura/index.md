@@ -4,6 +4,8 @@ date: 2024-10-01T03:31:47.365Z
 url: /es/blog/2024/10/01/taxi-y-literatura/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/taxi-y-literatura-4b53832529b9"
+categories: [escritura, libros]
+tags: [lenguaje, literatura]
 draft: false
 cover:
   image: "cover.jpeg"

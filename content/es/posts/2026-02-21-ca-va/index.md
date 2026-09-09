@@ -4,6 +4,8 @@ date: 2026-02-21T17:21:57.998Z
 url: /es/blog/2026/02/21/ca-va/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/%C3%A7a-va-0ad4b18298a1"
+categories: [la vida]
+tags: [paternidad, adolescencia]
 draft: false
 cover:
   image: "cover.jpeg"

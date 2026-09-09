@@ -4,6 +4,8 @@ date: 2025-05-28T01:21:53.822Z
 url: /es/blog/2025/05/28/el-ultimo-trozo/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/el-%C3%BAltimo-trozo-352f95ef7a0f"
+categories: [la vida]
+tags: [familia, paternidad]
 draft: false
 cover:
   image: "cover.jpeg"

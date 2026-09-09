@@ -4,6 +4,8 @@ date: 2025-08-05T03:32:15.030Z
 url: /es/blog/2025/08/05/una-bola-de-certeza/
 author: Andres Marrugo
 medium_url: "https://medium.com/@agmarrugo/una-bola-de-certeza-2ec69124276a"
+categories: [la vida]
+tags: [nostalgia, memoria]
 draft: false
 cover:
   image: "cover.jpeg"
