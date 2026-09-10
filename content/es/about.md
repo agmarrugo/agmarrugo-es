@@ -8,7 +8,7 @@ sharing: true
 footer: true
 ---
 
-Me llamo Andrés Marrugo Hernández. Soy profesor, investigador, ingeniero y un soñador empedernido que se las tira de escritor cuando nadie está viendo.
+Hola, me llamo Andrés Marrugo Hernández. Soy profesor, investigador, ingeniero y un soñador empedernido que se las tira de escritor cuando nadie está viendo. Encender en los demás el coraje y la curiosidad para participar en la gran conversación de la humanidad. Ser el Gandalf para los Bilbos que hay en el mundo. 
 
 ![Andrés Marrugo durante una conferencia](/images/andres.jpg)
 
@@ -16,7 +16,7 @@ Vivo en Cartagena, Colombia, y trabajo en la Universidad Tecnológica de Bolíva
 
 Durante varios años estuve al frente de la Vicerrectoría Académica de la universidad. Esa experiencia me llevó a pensar con más cuidado sobre la educación, para qué sirve una universidad, qué vale la pena enseñar y qué significa realmente ayudar a alguien a aprender. Tengo menos certezas sobre esas preguntas que hace unos años. Considero eso un avance.
 
-La ciencia ocupa una parte importante de mi vida, pero está lejos de ser la única. Leo mucho, sobre todo ficción. Tolstói, Chéjov, Dostoievski, Austen, García Márquez y muchos otros probablemente me han enseñado tanto sobre los seres humanos como cualquier cosa que haya encontrado en la vida académica. También escribo, llevo cuadernos, guardo pasajes de los libros que leo y, de vez en cuando, intento escribir algo de ficción.
+La ciencia ocupa una parte importante de mi vida, pero está lejos de ser la única. Leo mucho, sobre todo ficción. Tolstói, Tolkien,Chéjov, Dostoievski, Austen, García Márquez y muchos otros probablemente me han enseñado tanto sobre los seres humanos como cualquier cosa que haya encontrado en la vida académica. También escribo, llevo cuadernos, guardo pasajes de los libros que leo y, de vez en cuando, intento escribir algo de ficción.
 
 En casa soy esposo y padre. Ser padre cambió la manera en que veo la vida. Buena parte de lo que me interesa ahora, la educación, la curiosidad, el carácter, la atención y ese cuento de convertirse en persona, me resulta difícil de separar de la experiencia de criar a mis hijos.
 
