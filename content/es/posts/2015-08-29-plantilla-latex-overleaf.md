@@ -4,7 +4,7 @@ date: 2015-08-29T01:37:00-05:00
 url: /es/blog/2015/08/29/plantilla-latex-overleaf/
 author: Andres Marrugo
 comments: true
-categories: [academia,educacion]
+categories: [academia, educación]
 draft: false
 cover:
   image: "/es/images/overleaf-project.png"

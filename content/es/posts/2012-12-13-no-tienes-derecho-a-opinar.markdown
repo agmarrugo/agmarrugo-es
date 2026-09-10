@@ -4,7 +4,7 @@ date: 2012-12-13T00:15:00-05:00
 url: /es/blog/2012/12/13/no-tienes-derecho-a-opinar/
 author: Andres Marrugo
 comments: true
-categories: [educacion, la vida]
+categories: [educación, la vida]
 draft: false
 cover:
   image: "/es/images/medium_3133604390.jpg"

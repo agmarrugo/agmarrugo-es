@@ -5,7 +5,7 @@ date: 2017-04-08T23:23:00-05:00
 url: /es/blog/2017/04/08/director-o-mentor/
 author: Andres Marrugo
 comments: true
-categories: [academia, la vida, educacion]
+categories: [academia, la vida, educación]
 facebook:
     image: http://andresmarrugo.net/es/images/640px-Apprenticeship.jpg
 twitter_card:
