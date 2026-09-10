@@ -1,5 +1,6 @@
 ---
 title: "Educación"
+slug: educacion
 aliases:
-  - /blog/categories/educacion/
+  - /blog/categories/educación/
 ---
