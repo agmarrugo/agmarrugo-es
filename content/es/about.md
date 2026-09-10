@@ -8,7 +8,7 @@ sharing: true
 footer: true
 ---
 
-Hola, me llamo Andrés Marrugo Hernández. Soy profesor, investigador, ingeniero y un soñador empedernido que se las tira de escritor cuando nadie está viendo. Mi propóstio es encender en los demás el coraje y la curiosidad para participar en la gran conversación de la humanidad. Ser el Gandalf para los Bilbos que hay en el mundo. 
+Hola, me llamo Andrés Marrugo Hernández. Soy profesor, investigador, ingeniero y un soñador empedernido que se las tira de escritor cuando nadie está viendo. Mi propósito es encender en otros el coraje y la curiosidad para participar en la gran conversación de la humanidad. Ser el Gandalf para los Bilbos que hay en el mundo. 
 
 ![Andrés Marrugo durante una conferencia](/images/andres.jpg)
 
