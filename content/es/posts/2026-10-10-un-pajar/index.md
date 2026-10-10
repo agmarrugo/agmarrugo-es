@@ -16,7 +16,7 @@ cover:
 
 <figure>
 <img src="cover.jpeg" alt="Fardos de paja apilados junto a una ventana" loading="lazy">
-<figcaption>Pajar junto a una ventana. Foto de <a href="https://www.pexels.com/photo/pile-of-hay-near-a-glass-window-7618940/">Sinitta Leunen</a> en Pexels.</figcaption>
+<figcaption>Foto por <a href="https://www.pexels.com/photo/pile-of-hay-near-a-glass-window-7618940/">Sinitta Leunen</a>.</figcaption>
 </figure>
 
 La vida es un pajar de emociones, todas entreveradas, deslizándose unas sobre otras y, sin embargo, desde fuera todo parece compacto. Los vacíos entre pajas son invisibles pero ahí están, esperando.
