@@ -3,7 +3,7 @@ title: "Un pajar"
 date: 2026-10-10T14:23:51-05:00
 url: /es/blog/2026/10/10/un-pajar/
 author: Andres Marrugo
-description: "La vida es un pajar de emociones, todas entreveradas, deslizándose unas sobre otras y, sin embargo, desde fuera todo parece compacto."
+description: "La vida es un pajar de emociones…"
 categories: [la vida]
 tags: [poesía, reflexiones]
 draft: false
