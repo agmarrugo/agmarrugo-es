@@ -78,4 +78,6 @@ Se queda pensando.
 Alejandro apoya los brazos sobre la mesa, junto a uno de los vasos marcados por huellas grasosas de la pizza.  
 —Papi, ¿tú conoces el mito de la caverna?
 
----
+<div style="display: flex; justify-content: center; margin: 32px 0;">
+  <div style="width: 56px; height: 1px; background-color: #b0b0b0;"></div>
+</div>
