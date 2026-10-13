@@ -9,13 +9,13 @@ tags: [relato, familia, conversaciones, curiosidades]
 draft: false
 cover:
   image: "cover.jpeg"
-  alt: "Restos de pizza y vasos sobre una mesa después de la cena"
+  alt: "Tres hermanos conversan alrededor de la mesa mientras comen pizza"
   relative: true
   hiddenInSingle: true
 ---
 
 <figure>
-<img src="cover.jpeg" alt="Restos de pizza y vasos sobre una mesa después de la cena" loading="lazy">
+<img src="cover.jpeg" alt="Tres hermanos conversan alrededor de la mesa mientras comen pizza" loading="lazy">
 </figure>
 
 Son las nueve de la noche. Unas migas dispersas por la mesa quedan como evidencia del crimen gastronómico. Los vasos perlados de agua dejan pequeños charcos. Entre ellos se mueven las manos y se reflejan las risas. En el centro, una jarra vacía, muy seria.
