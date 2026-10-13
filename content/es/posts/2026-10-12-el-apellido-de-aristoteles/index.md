@@ -3,7 +3,7 @@ title: "El apellido de Aristóteles"
 date: 2026-10-12T22:54:01-05:00
 url: /es/blog/2026/10/12/el-apellido-de-aristoteles/
 author: Andres Marrugo
-description: "Una conversación familiar después de la cena sobre el origen de los nombres, los apellidos y el misterioso apellido de Aristóteles."
+description: "La maravilla de la sobremesa."
 categories: [la vida, relato]
 tags: [relato, familia, conversaciones, curiosidades]
 draft: false
