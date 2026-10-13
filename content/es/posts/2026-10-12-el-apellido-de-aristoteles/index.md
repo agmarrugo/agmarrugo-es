@@ -77,3 +77,5 @@ Se queda pensando.
 —No, ese fue Platón —rectifica de inmediato.  
 Alejandro apoya los brazos sobre la mesa, junto a uno de los vasos marcados por huellas grasosas de la pizza.  
 —Papi, ¿tú conoces el mito de la caverna?
+
+---
