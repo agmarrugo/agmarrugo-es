@@ -37,3 +37,7 @@ El corazón se arruga.
 
 Pero se asoma el sol.<br>
 El pajar sigue ahí.
+
+<div style="text-align:center; margin:36px 0 40px; font-size:25px; color:#999; line-height:1;">
+  ☙
+</div>
