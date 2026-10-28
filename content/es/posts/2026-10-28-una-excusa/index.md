@@ -32,3 +32,7 @@ para un  traspié de honestidad,<br>
 para una risa cómplice.<br>
 Una mirada que asiente<br>
 y una palabra que brota.</p>
+
+<div style="text-align:center; margin:36px 0 40px; font-size:25px; color:#999; line-height:1;">
+  ☙
+</div>
