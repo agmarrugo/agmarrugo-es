@@ -4,7 +4,7 @@ date: "2026-10-28T13:00:00-05:00"
 url: /es/blog/2026/10/28/una-excusa/
 author: Andres Marrugo
 draft: false
-description: "La vida es, a veces, como una mañana fresca de octubre, como la caricia de una mano, como una sonrisa devuelta."
+description: "La vida es…"
 categories: [la vida]
 tags: [poesía]
 cover:
