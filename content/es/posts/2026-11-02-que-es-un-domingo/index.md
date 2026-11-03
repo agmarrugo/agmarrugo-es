@@ -11,8 +11,8 @@ description: "El mundo cabe en una gota de rocío y hay familias que caben en un
 categories: [la vida]
 tags: [poesía]
 cover:
-  image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Esbj%C3%B6rn_at_the_Study_Corner_%28Carl_Larsson%29_-_Nationalmuseum_-_26034.tif/lossy-page1-1280px-Esbj%C3%B6rn_at_the_Study_Corner_%28Carl_Larsson%29_-_Nationalmuseum_-_26034.tif.jpg"
-  alt: "Un niño lee en un sillón junto a una mesa con libros y pinceles, en un interior doméstico luminoso."
+  image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Kurrag%C3%B6mma.jpg"
+  alt: "Una niña se esconde bajo una mesa con un jarrón de girasoles, en un taller lleno de pinceles y pinturas."
   hiddenInSingle: true
 ---
 
@@ -39,6 +39,6 @@ cover:
 <div class="poetry-end" aria-hidden="true">☙</div>
 
 <figure class="poetry-art">
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Esbj%C3%B6rn_at_the_Study_Corner_%28Carl_Larsson%29_-_Nationalmuseum_-_26034.tif/lossy-page1-1280px-Esbj%C3%B6rn_at_the_Study_Corner_%28Carl_Larsson%29_-_Nationalmuseum_-_26034.tif.jpg" alt="Un niño lee en un sillón junto a una mesa con libros y pinceles, en un interior doméstico luminoso." width="1280" height="856" loading="lazy">
-<figcaption>Carl Larsson, <a href="https://collection.nationalmuseum.se/sv/collection/item/26034/"><em>Esbjörn en el rincón de estudio</em></a> (<em>Studiehörnet. Esbjörn.</em>), 1912. Nationalmuseum, Estocolmo. Foto: Nationalmuseum. Dominio público, vía <a href="https://commons.wikimedia.org/wiki/File:Esbj%C3%B6rn_at_the_Study_Corner_(Carl_Larsson)_-_Nationalmuseum_-_26034.tif">Wikimedia Commons</a>.</figcaption>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Kurrag%C3%B6mma.jpg" alt="Una niña se esconde bajo una mesa con un jarrón de girasoles, en un taller lleno de pinceles y pinturas." width="902" height="1382" loading="lazy">
+<figcaption>Carl Larsson, <a href="https://commons.wikimedia.org/wiki/File:Kurrag%C3%B6mma.jpg"><em>El escondite</em> (<em>Kurragömma</em> / <em>Hide and Seek</em>)</a>, 1898. Dominio público, vía Wikimedia Commons.</figcaption>
 </figure>
