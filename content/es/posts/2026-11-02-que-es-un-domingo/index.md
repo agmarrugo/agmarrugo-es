@@ -3,13 +3,13 @@ title: "¿Qué es un domingo?"
 date: "2026-11-02T23:00:00-05:00"
 url: /es/blog/2026/11/02/que-es-un-domingo/
 author: Andres Marrugo
-draft: true
+draft: false
 layout: poetry
 ShowReadingTime: false
 ShowToc: false
-description: "El mundo cabe en una gota de rocío y hay familias que caben en una tarde de domingo."
-categories: [la vida]
-tags: [poesía]
+description: "Hay familias que caben en una tarde de domingo"
+categories: [la vida, Escritura, Familia]
+tags: [poesía, Familia]
 cover:
   image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Kurrag%C3%B6mma.jpg"
   alt: "Una niña se esconde bajo una mesa con un jarrón de girasoles, en un taller lleno de pinceles y pinturas."
