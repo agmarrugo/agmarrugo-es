@@ -6,7 +6,7 @@ author: Andres Marrugo
 description: "Una mañana distinta, casi."
 categories: [la vida]
 tags: [paternidad, infancia, cotidianeidad]
-draft: true
+draft: false
 cover:
   image: "cover.jpeg"
   alt: "Una calle tranquila y poco concurrida en una mañana nublada"
@@ -37,3 +37,5 @@ Unos pasos más adelante llegamos a la intersección, menos concurrida de lo hab
 Me despedí, esta vez sin tirarle el beso de siempre. Se lo di en la cabeza, en esa cabellera a medio peinar que luce orgullosamente como diciendo aquí estoy yo.
 
 Di media vuelta. A lo lejos ya venía el vecino con su niño. La chica del gimnasio caminaba apurada. Y yo de regreso por nuestra calle, pendiente de no pisar la plasta que estaba por la esquina. 
+
+<div class="poetry-end" aria-hidden="true">☙</div>
